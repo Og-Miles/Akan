@@ -1,6 +1,6 @@
-# Switch
+# Akan
 
-A landing page template.
+A one-page birthday Website
 
 * [Getting started](#getting-started)
 
